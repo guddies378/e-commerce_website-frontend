@@ -31,3 +31,7 @@ Open the project folder and run `index.html` in your browser.
 ## Note
 
 The checkout does not process real payments.
+
+## 📄 License
+
+© 2026 Mark James F. Manlangit. All Rights Reserved.
